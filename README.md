@@ -1,5 +1,3 @@
-# p11_gaione_stefano
+# Gestione Prenotazione Cinema Multisala
 
 Gaione Stefano (m. 3666050)
-
-progetto: p11 - Gestione Prenotazione Cinema Multisala
