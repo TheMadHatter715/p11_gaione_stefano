@@ -74,7 +74,6 @@ public class Proiezione implements Comparable<Proiezione>{
      *
      * @param p
      * 
-     * @return boolean
      */
 	public void aggiungiPrenotazione(Prenotazione p) {
 		Iterator<Posto> i = p.getPosti().iterator();

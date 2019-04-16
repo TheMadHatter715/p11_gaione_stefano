@@ -30,11 +30,8 @@ public class Prenotazione implements Comparable<Prenotazione>{
 	/**
      * Funzione per sistemare i dati in modo da visualizzarli poi a console
      * Override del metodo toString()
-     *
-     * @param args
-     * @param input
      * 
-     * @return boolean
+     * @return String
      */
 	@Override
 	public String toString() {

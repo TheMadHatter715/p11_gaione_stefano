@@ -20,10 +20,7 @@ public class Film {
 	/**
      * Override del metodo toString()
      *
-     * @param args
-     * @param input
-     * 
-     * @return boolean
+     * @return String
      */
 	@Override
 	public String toString() {
