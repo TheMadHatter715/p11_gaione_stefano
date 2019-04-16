@@ -1,0 +1,4 @@
+Captain_Marvel 125 azione false
+Captain_Marvel_(3D) 125 azione true
+The_mule 115 drammatico false
+Bohemian_Rhapsody 133 drammatico false
