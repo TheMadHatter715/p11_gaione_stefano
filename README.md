@@ -8,3 +8,7 @@ Come importare il progetto all'interno della piattaforma Eclipse:
 - Importare il progetto in Eclipse come folder
 - Assicurarsi di aggiungere la libreria JUnit5 al build path del progetto
 - Il 100% di coverage del source code si ottiene eseguendo entrambe le Test-Suite presenti (una nella cartella 'test_funzionali', l'altra nella cartella 'test_strutturali')
+
+Altre informazioni utili:
+- username e password per il gestore del cinema: carlo 1
+- username e password per un cliente già registrato: ste 3
